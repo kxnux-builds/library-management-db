@@ -217,6 +217,11 @@ This project is perfect for learning:
 
 ---
 
-**Made with ❤️ by [kxnux-builds](https://github.com/kxnux-builds)**
+## Credits & Links
 
-Last Updated: June 29, 2026
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
+
+
