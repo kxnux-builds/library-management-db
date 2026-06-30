@@ -108,3 +108,7 @@ SELECT * FROM Categories;
 SELECT * FROM Books;
 SELECT * FROM Members;
 SELECT * FROM Borrow;
+
+-- =============================================
+-- END OF PROJECT
+-- =============================================
